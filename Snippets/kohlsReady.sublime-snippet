@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[jQuery( function( \$ ) {
+
+
+  ${0:// Stuff to do as soon as the DOM is ready;}
+
+
+});]]></content>
+	<tabTrigger>doc</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

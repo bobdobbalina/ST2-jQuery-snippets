@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[.delegate( '${1:selector}', '${2:event type(s)}', function( ${3:event }) {
+	${0:// Act on the event}
+});]]></content>
+	<tabTrigger>.delegate</tabTrigger>
+	<description>.delegate</description>
+	<scope>source.js</scope>
+</snippet>
